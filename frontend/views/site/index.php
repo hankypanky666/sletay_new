@@ -89,7 +89,7 @@ $this->title = 'Поиск дешевых авиабилетов в Белару
                             </div>
                         </div>
                     <?php if(isset($model)): ?>
-                        <?= print_r($model->data->data) ?>
+                        <?=  print_r($model->data->data) ?>
                     <?php endif; ?>
 
                 </div>
