@@ -14,9 +14,7 @@ $this->title = 'Поиск дешевых авиабилетов в Белару
 
         <div class="row">
             <div class="center-block">
-                <script charset="utf-8" src="//www.travelpayouts.com/widgets/7ae14e0ce4f47538810fa122d57f405d.js?v=568" async>
-                </script>
-
+                <script charset="utf-8" src="//www.travelpayouts.com/widgets/7ae14e0ce4f47538810fa122d57f405d.js?v=574" async></script>
             </div>
         </div>
     </div>
